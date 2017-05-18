@@ -3,6 +3,14 @@
 This is Shawn's code blog repository. It is built with Pelican and some other
 stuff.
 
+## Setup
+
+This site uses Pelican.
+
+1. `pip install pelican markdown`
+2. Clone the Pelican Themes repo: https://github.com/getpelican/pelican-themes/
+3. Install the Flex theme: `pelican-themes -vi ~/path/to/pelican-themes/Flex`
+
 ## Deployment
 
 To deploy this site, you must run the following commands:
