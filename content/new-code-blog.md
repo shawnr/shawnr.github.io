@@ -3,8 +3,7 @@ Date: 2017-05-18 9:00
 Modified: 2017-05-18 15:00
 Category: Site
 Tags: personal, writing, ambitions
-Summary: I started a new code blog. Why? Because I've been meaning to do it for
-a long time.
+Summary: I started a new code blog. Why? Because I've been meaning to do it for a long time.
 
 Welcome to shawnr.com. This is a code blog. I've been meaning to begin a blog
 like this for awhile now. This week I'm at PyCon 2017, and, as so often happens
