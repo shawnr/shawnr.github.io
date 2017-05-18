@@ -6,7 +6,8 @@ Summary: Notes from the Python Ed Summit 2017.
 
 The Python Education Summit is happening on May 18, 2017 in Portland, OR. I am
 writing some notes as we go through the day. Apologies to all of the great things
-I've missed in these notes.
+I've missed in these notes (some of the sessions run simultaneously, and I can,
+unfortunately, only be in one place at a time).
 
 ## Keynote: Luciano Ramalho
 
@@ -34,3 +35,45 @@ learning something they have no idea about. It's exceptional when students can
 lead themselves to that point, but it's totally understandable why a student
 would not be able to get there without help. This is why it's so important to
 begin education about coding and software early in our educational careers.
+
+## Charlotte Chang: Climbing Rocks and Coding Blocks
+
+Chang dicussed the challenges of learning to code and the ways in which these
+challenges can feel intimidating, scary, and dangerous. She made several great
+analogies to rock climbing (if you climb, you expect falls; if you code, expect
+failures) and generally asserted the idea that learning to code is a risky
+endeavor.
+
+Chang's examples and experiences definitely echo with me both personally and
+in terms of what I see in my students. There are many examples of students
+defeating themselves before they ever really get going due to the fear of
+failure, feelings of inadequacy, and generally discouraging experiences of
+frustration and exasperation.
+
+## Jessica Ingrassellino: Teaching a Diverse Classroom
+
+Ingrassellino provided an impromptu talk filling in for a speaker whose Visa was
+denied and, therefore, was prevented from attending the conference.
+
+Ingrassellino provided a helpful talk discussing ways in which she accommodates
+students with diverse needs and abilities in the classroom. She stressed the
+need to create a safe space where students could fail without fear, but also
+to modulate content to better reach students. She did a good job underlining the
+basics of differentiated pedagogy and concerning ourselves with the social
+well-being of the classroom.
+
+## Lightning Talks
+
+I am not going to provide full summaries of the Lightning Talks (they go too
+quickly!), but here are some takeaways:
+
+* PyCon UK has a great Education track!
+* Logo is still relevant, programming with graphics is fun and good.
+* Processing with Python is cool.
+* Helping students learn to ask questions is crucial.
+* Answers that students discover themselves are much more meaningful and resilient.
+* Show students what success looks like.
+* Show students what failure looks like.
+* Adafruit is a cool company that makes systems on which you can write Python.
+
+
