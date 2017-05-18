@@ -2,7 +2,7 @@ Title: Python Education Summit 2017 Notes
 Date: 2017-05-18 10:00
 Category: Events
 Tags: Python, conference, education
-Summary: Notes from the Python Ed Summit 2017.
+Summary: Notes from the Python Ed Summit 2017 in Portland, OR. Speakers included: Luciano Ramalho, Charolotte Chang, Jessica Ingrasselino, and more.
 
 The Python Education Summit is happening on May 18, 2017 in Portland, OR. I am
 writing some notes as we go through the day. Apologies to all of the great things
