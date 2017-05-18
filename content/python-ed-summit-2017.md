@@ -10,7 +10,7 @@ writing some notes as we go through the day. Apologies to all of the great thing
 I've missed in these notes (some of the sessions run simultaneously, and I can,
 unfortunately, only be in one place at a time).
 
-## Keynote: Luciano Ramalho
+## Keynote&mdash;Luciano Ramalho
 
 Coming with a long history of development and teaching experience, Ramalho
 discussed his personal history learning to program as well as some of the
@@ -37,7 +37,7 @@ lead themselves to that point, but it's totally understandable why a student
 would not be able to get there without help. This is why it's so important to
 begin education about coding and software early in our educational careers.
 
-## Charlotte Chang: Climbing Rocks and Coding Blocks
+## Charlotte Chang&mdash;Climbing Rocks and Coding Blocks
 
 Chang dicussed the challenges of learning to code and the ways in which these
 challenges can feel intimidating, scary, and dangerous. She made several great
@@ -51,7 +51,7 @@ defeating themselves before they ever really get going due to the fear of
 failure, feelings of inadequacy, and generally discouraging experiences of
 frustration and exasperation.
 
-## Jessica Ingrassellino: Teaching a Diverse Population
+## Jessica Ingrassellino&mdash;Teaching a Diverse Population
 
 Ingrassellino provided an impromptu talk filling in for a speaker whose Visa was
 denied and, therefore, was prevented from attending the conference.
@@ -80,7 +80,7 @@ quickly!), but here are some takeaways:
 * Programming is a way of thinking. (Read more about it here.)[https://blogs.scientificamerican.com/guest-blog/programming-as-a-way-of-thinking/]
 * Visual Bash.
 
-## Andrew M. Dawes: Teaching Quantum Mechanics with Python
+## Andrew M. Dawes&mdash;Teaching Quantum Mechanics with Python
 
 (Dawes)[http://amcdawes.com] discussed using (Jupyter)[http://jupyter.org/] and
 (QuTip)[http://qutip.org/] to teach Quantum Mechanics to undergrads. Robust tools
@@ -111,7 +111,7 @@ Key takeaways (summarized by Dawes in his slides):
 * Don't be afraid to give out fully-worked examples
 * Encourage tinkering
 
-## Carol Willing: JupyterHub: Interactive Learning and Classrooms at Scale
+## Carol Willing&mdash;JupyterHub: Interactive Learning and Classrooms at Scale
 
 What is learning? "Learning results from what the student does and thinks, and
 only from what the student does and thinks" (Herbert Simon). Willing points out
@@ -181,6 +181,27 @@ Jupyter Labs is a new product coming that will allow more complex Notebook
 creation including more media. Keep an eye out for this to launch and bring new
 features.
 
+## Al Sweigart&mdash;Tortuga.py: Expanding Turtle.py Beyond English
+
+Sweigart points out that Python has some great features for teaching new coders
+using the classic Turtle programming module `turtle.py`. Considering teaching
+students whose native language is not English, Sweigart came to feel that the
+use of English words to program the Turtle ("up", "down", "left", "right", etc.)
+add to the difficulty of learning to program. Although key words ("for", "in", etc.)
+cannot be translated into other languages, the rest of the `turtle.py` module has
+been translated into Spanish and is available as Tortuga (`pip install tortuga`).
+
+This definitely makes the code for Turtle scripts more accessible to coders in
+foreign languages. Sweigart has outlined a technical plan for improving the
+`turtle.py` component in the standard Python library in order to make this change
+fully accessible to people wanting to teach code in a foreign language. Each
+added language only adds about 4k of code to the package, which should allow for
+many other languages to be supported.
+
+Sweigart hopes to encourage people to work with him to complete the project and
+eventually get the translations added to the standard library. He welcomes
+anyone to come work on the `Tortuga.py` project with him. (Check out his
+presentation here)[http://bit.ly/tortugapy].
 
 
 
