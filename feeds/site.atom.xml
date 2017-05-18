@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>@shawnr codes - Site</title><link href="http://shawnr.com/" rel="alternate"></link><link href="http://shawnr.com/feeds/site.atom.xml" rel="self"></link><id>http://shawnr.com/</id><updated>2017-05-18T15:00:00-07:00</updated><entry><title>Welcome to the Code Blog</title><link href="http://shawnr.com/welcome-to-the-code-blog.html" rel="alternate"></link><published>2017-05-18T09:00:00-07:00</published><updated>2017-05-18T15:00:00-07:00</updated><author><name>Shawn Rider</name></author><id>tag:shawnr.com,2017-05-18:/welcome-to-the-code-blog.html</id><summary type="html">&lt;p&gt;I started a new code blog. Why? Because I've been meaning to do it for&lt;/p&gt;</summary><content type="html">&lt;p&gt;a long time.&lt;/p&gt;
+&lt;p&gt;Welcome to shawnr.com. This is a code blog. I've been meaning to begin a blog
+like this for awhile now. This week I'm at PyCon 2017, and, as so often happens
+when I attend big, inspiring conference, I felt compelled to take notes. Of
+course, I want to share these notes with (my students)[http://webdev.seattleu.edu]
+and colleagues and everyone else.&lt;/p&gt;
+&lt;p&gt;So here we are. During the welcome session this morning I tossed together this
+site powered by Pelican and using the Flex theme. This was not serious work,
+and it was a lot of fun. (Another thing I've been meaning to do is play with
+Pelican, so here we go: two birds with one stone.)&lt;/p&gt;
+&lt;p&gt;I will be posting notes from PyCon 2017, and I hope that is not where I will
+stop with this blog. I have ambitions to post occasional essays, articles or
+tutorials about how to do things, and smaller posts addressing smaller topics.
+I have no idea how often I'll update this blog. I just hope it's enough to be
+useful.&lt;/p&gt;
+&lt;p&gt;I don't plan to enable comments, but please feel free to message me anytime if
+you have anything to add or ask about the posts on this site. You can find me
+using the links in the left sidebar.&lt;/p&gt;
+&lt;p&gt;So, welcome to the new thing. I look forward to seeing where this goes. Thanks
+for joining me.&lt;/p&gt;</content><category term="personal"></category><category term="writing"></category><category term="ambitions"></category></entry></feed>
