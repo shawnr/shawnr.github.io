@@ -271,4 +271,63 @@ the roles of a full dev team and work together.
 
 ## Sam Redmond&mdash;Breaking Bad Habits: The Usefulness of Style Feedback
 
+Redmond is an undergrad who will graduate in 2018. He has been teaching CS41:
+Hap.py Code at Stanford. This is an intro to Python course.
 
+Redmond spoke about giving stylistic feedback. This is a fascinating topic for
+me, probably due to my history with teaching writing and art. I've long believed
+that accuracy is only half the job: We also aim to make things beautiful. Beauty
+is useful.
+
+Key takeaway Redmond wants to convey: Style feedback should help students "think
+in Python."
+
+Redmond wants us to move beyond PEP-8 compliance and aim our feedback to help
+students not only improve their code, but also improve their understanding. Style
+feedback should teach students about the language features and help them
+leverage those features more effectively.
+
+It's tough to teach style in Python because Python draws from different paradigms.
+This causes confusion. Python also has clear bias and preference from a stylistic
+perspective. If we are teaching students who come from other languages, then
+it's important to help them navigate between all of these paradigms and
+considerations.
+
+Stylistic feedback should help students "stretch their mental habits" to "begin
+thinking in another way."
+
+Redmond proposes a stylistic feedback framework:
+
+1. Pythonic Practices - "Thinking in Python"
+2. Program Deisgn - Language agnostic considerations of software design
+3. Python Mechanics - PEP-8 adherance
+
+Redmond asserts that the most important aspect of the feedback is the Pythonic
+Practices. As much as possible, feedback should encourage use of Pythonic
+features such as:
+
+* List comprehensions
+* Iterables and generators
+* Don't reinvent the wheel
+* Custom Errors
+* Magic methods
+
+In order to address style, feedback should:
+
+1. Identify an area of stylistic weakness in the code
+2. Articulate the cause of the weakness clearly to the student
+3. Offer actionable advice about how to improve the code
+4. Word feedback constructively
+
+Redmond's advice for writing feedback is, "Don't violate the dummy rule." If
+you can add the word "dummy" to the end of your feedback and it fits, then your
+feedback is probably inappropriate.
+
+We should also take into account the students' level in giving feedback. Prioritize
+feedback so that students at a basic level get feedback that helps them understand
+big Pythonic concepts. But for advanced students, feedback can focus on more
+subtle improvements that build in prior knowledge.
+
+I appreciate Redmond's points, and they are vital to teaching students. The
+challenge of providing helpful, accurate feedback is huge, and many teachers
+struggle with this part of the job.
