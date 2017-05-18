@@ -75,5 +75,11 @@ quickly!), but here are some takeaways:
 * Show students what success looks like.
 * Show students what failure looks like.
 * Adafruit is a cool company that makes systems on which you can write Python.
+* Adafruit has new, tiny, cheap chips that you can use to build cool things.
+* Programming is a way of thinking. (Read more about it here.)[https://blogs.scientificamerican.com/guest-blog/programming-as-a-way-of-thinking/]
+* Visual Bash.
+
+
+
 
 
