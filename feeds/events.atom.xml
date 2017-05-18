@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>@shawnr codes - Events</title><link href="http://shawnr.com/" rel="alternate"></link><link href="http://shawnr.com/feeds/events.atom.xml" rel="self"></link><id>http://shawnr.com/</id><updated>2017-05-18T10:00:00-07:00</updated><entry><title>Python Education Summit 2017 Notes</title><link href="http://shawnr.com/python-education-summit-2017-notes.html" rel="alternate"></link><published>2017-05-18T10:00:00-07:00</published><updated>2017-05-18T10:00:00-07:00</updated><author><name>Shawn Rider</name></author><id>tag:shawnr.com,2017-05-18:/python-education-summit-2017-notes.html</id><summary type="html">&lt;p&gt;Notes from the Python Ed Summit 2017 in Portland, OR. Speakers included: Luciano Ramalho, Charolotte Chang, Jessica Ingrasselino, and more.&lt;/p&gt;</summary><content type="html">&lt;p&gt;The Python Education Summit is happening on May 18, 2017 in Portland, OR. I am
+<feed xmlns="http://www.w3.org/2005/Atom"><title>@shawnr codes - Events</title><link href="http://shawnr.com/" rel="alternate"></link><link href="http://shawnr.com/feeds/events.atom.xml" rel="self"></link><id>http://shawnr.com/</id><updated>2017-05-18T14:00:00-07:00</updated><entry><title>Python Education Summit 2017 Notes</title><link href="http://shawnr.com/python-education-summit-2017-notes.html" rel="alternate"></link><published>2017-05-18T10:00:00-07:00</published><updated>2017-05-18T14:00:00-07:00</updated><author><name>Shawn Rider</name></author><id>tag:shawnr.com,2017-05-18:/python-education-summit-2017-notes.html</id><summary type="html">&lt;p&gt;Notes from the Python Ed Summit 2017 in Portland, OR. Speakers included: Luciano Ramalho, Charolotte Chang, Jessica Ingrasselino, and more.&lt;/p&gt;</summary><content type="html">&lt;p&gt;The Python Education Summit is happening on May 18, 2017 in Portland, OR. I am
 writing some notes as we go through the day. Apologies to all of the great things
 I've missed in these notes (some of the sessions run simultaneously, and I can,
 unfortunately, only be in one place at a time).&lt;/p&gt;
@@ -36,7 +36,7 @@ in terms of what I see in my students. There are many examples of students
 defeating themselves before they ever really get going due to the fear of
 failure, feelings of inadequacy, and generally discouraging experiences of
 frustration and exasperation.&lt;/p&gt;
-&lt;h2&gt;Jessica Ingrassellino: Teaching a Diverse Classroom&lt;/h2&gt;
+&lt;h2&gt;Jessica Ingrassellino: Teaching a Diverse Population&lt;/h2&gt;
 &lt;p&gt;Ingrassellino provided an impromptu talk filling in for a speaker whose Visa was
 denied and, therefore, was prevented from attending the conference.&lt;/p&gt;
 &lt;p&gt;Ingrassellino provided a helpful talk discussing ways in which she accommodates
@@ -51,7 +51,7 @@ quickly!), but here are some takeaways:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;PyCon UK has a great Education track!&lt;/li&gt;
 &lt;li&gt;Logo is still relevant, programming with graphics is fun and good.&lt;/li&gt;
-&lt;li&gt;Processing with Python is cool.&lt;/li&gt;
+&lt;li&gt;Processing (the visual programming framework) with the Python module is cool.&lt;/li&gt;
 &lt;li&gt;Helping students learn to ask questions is crucial.&lt;/li&gt;
 &lt;li&gt;Answers that students discover themselves are much more meaningful and resilient.&lt;/li&gt;
 &lt;li&gt;Show students what success looks like.&lt;/li&gt;
@@ -60,4 +60,30 @@ quickly!), but here are some takeaways:&lt;/p&gt;
 &lt;li&gt;Adafruit has new, tiny, cheap chips that you can use to build cool things.&lt;/li&gt;
 &lt;li&gt;Programming is a way of thinking. (Read more about it here.)[https://blogs.scientificamerican.com/guest-blog/programming-as-a-way-of-thinking/]&lt;/li&gt;
 &lt;li&gt;Visual Bash.&lt;/li&gt;
-&lt;/ul&gt;</content><category term="Python"></category><category term="conference"></category><category term="education"></category></entry></feed>
+&lt;/ul&gt;
+&lt;h2&gt;Andrew M. Dawes: Teaching Quantum Mechanics with Python&lt;/h2&gt;
+&lt;p&gt;(Dawes)[http://amcdawes.com] discussed using (Jupyter)[http://jupyter.org/] and
+(QuTip)[http://qutip.org/] to teach Quantum Mechanics to undergrads. Robust tools
+allow students to work through material in an interactive way, and give the
+students ways to do &lt;em&gt;real&lt;/em&gt; quantum mechanics work using the same tools used by
+professional researchers.&lt;/p&gt;
+&lt;p&gt;Students are not required to have any prior Computer Science or programming
+before taking this course. They have been exposed to other Math-based tools (like
+Maple), so the interface and code is not totally foreign, but it is a
+substantial amount of new stuff. Students work together to get through challenges.
+Class time includes pair programming work.&lt;/p&gt;
+&lt;p&gt;Jupyter Notebook allows for a much more smooth integration of the advanced QuTiP
+tool into the classroom. The notebook allows information to be conveyed with
+interactivity. Example problems can be provided with solutions that students can
+interrogate and learn better from. Examples from the book can also be
+re-created in the notebook, allowing students to investigate those examples
+more fully, too.&lt;/p&gt;
+&lt;p&gt;Students write code in labs, where they are able to work together, spend more
+time investigating concepts, and easily get help in order to maximize their
+understanding.&lt;/p&gt;
+&lt;p&gt;Key takeaways (summarized by Dawes in his slides):
+&lt;em&gt; Find real-world frameworks
+&lt;/em&gt; Re-create examples so they can reinforce what they read in their books
+&lt;em&gt; Don't be afraid to give out fully-worked examples
+&lt;/em&gt; Encourage tinkering&lt;/p&gt;
+&lt;h2&gt;Carol Willing: JupyterHub: Interactive Learning and Classrooms at Scale&lt;/h2&gt;</content><category term="Python"></category><category term="conference"></category><category term="education"></category></entry></feed>
