@@ -203,5 +203,8 @@ eventually get the translations added to the standard library. He welcomes
 anyone to come work on the `Tortuga.py` project with him. (Check out his
 presentation here)[http://bit.ly/tortugapy].
 
+## Dan Pozmanter&mdash;Teaching Practical Python
+
+## Sam Redmond&mdash;Breaking Bad Habits: The Usefulness of Style Feedback
 
 
