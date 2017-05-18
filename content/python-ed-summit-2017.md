@@ -205,6 +205,70 @@ presentation here)[http://bit.ly/tortugapy].
 
 ## Dan Pozmanter&mdash;Teaching Practical Python
 
+Pozmanter wants to ease the frustration and anxiety students feel when they get
+out of school and into real-world projects. He discusses the need to create
+assignments/projects that are ambitious enough that students need to ask
+questions about "perspective":
+
+* Thinking ahead
+* Thinking behind
+* Thinking sideways
+
+Simple projects do not encourage this kind of thinking. And projects that are
+too difficult make it impossible for students to do a good job of thinking
+through the project. It's a challenge to hit the correct level of difficulty.
+
+Some ways to cause students to leverage their perspective might be:
+
+* Reading how somebody else solved a similar problem and determining how to use
+that code in their own projects.
+* Add "scope creep" to projects: Change requirements in mid-assignment, add
+requirements, cause students to revise and re-envision their work.
+* Have students roleplay QA teams where they actively try to break other students'
+apps and then figure out why it broke.
+* Have students work on projects as business groups and "try on" all the roles
+of the group in order to better understand how various roles contribute as well
+as to better think about the software architecture.
+
+Pozmanter mentioned a survey of software developers and things that cause
+"unhappiness":
+
+* Getting stuck
+* Time pressure
+* Bad code quality
+* Unclear requirements
+* etc.
+
+He advocates that these "unhappy issues" can be used as tools to teach and will also have the
+effect of helping students better cope with these issues when they come up
+outside the classroom.
+
+Ultimately, the goal is to create a well-rounded developer who is more than _just_
+a coder:
+
+* Communication skills
+* Strategic Thinking
+* Love of Learning
+* Outside Interests
+* Healthy relationship with failure
+* Self confidence
+
+The idea of reproducing unpleasant real-world situations in a course is appealing
+to me, too. I feel that we often plan for the best case scenario, while we know
+that our students will actually walk into something much more tragic and chaotic.
+
+Scaffolding projects to provide opportunities for these sorts of curve balls can
+definitely be a great way to help students make the transition from school to work.
+It's tough to imagine how to do this in lower level courses, but this is certainly
+something that would help advanced students, and we should consider these approaches
+for our advanced groupwork or capstones.
+
+We attempt a form of this team-based education in the
+(Professional Practice)[http://webdev.seattleu.edu/courses.html] course we run as part of
+the Web Dev Certificate at Seattle University. The course runs as, essentially,
+a big role-playing game for the first seven weeks, allowing students to inhabit
+the roles of a full dev team and work together.
+
 ## Sam Redmond&mdash;Breaking Bad Habits: The Usefulness of Style Feedback
 
 
