@@ -3,7 +3,7 @@
 writing some notes as we go through the day. Apologies to all of the great things
 I've missed in these notes (some of the sessions run simultaneously, and I can,
 unfortunately, only be in one place at a time).&lt;/p&gt;
-&lt;h2&gt;Keynote: Luciano Ramalho&lt;/h2&gt;
+&lt;h2&gt;Keynote&amp;mdash;Luciano Ramalho&lt;/h2&gt;
 &lt;p&gt;Coming with a long history of development and teaching experience, Ramalho
 discussed his personal history learning to program as well as some of the
 exciting tools and methods of teaching programming in classrooms today. Ramalho
@@ -25,7 +25,7 @@ learning something they have no idea about. It's exceptional when students can
 lead themselves to that point, but it's totally understandable why a student
 would not be able to get there without help. This is why it's so important to
 begin education about coding and software early in our educational careers.&lt;/p&gt;
-&lt;h2&gt;Charlotte Chang: Climbing Rocks and Coding Blocks&lt;/h2&gt;
+&lt;h2&gt;Charlotte Chang&amp;mdash;Climbing Rocks and Coding Blocks&lt;/h2&gt;
 &lt;p&gt;Chang dicussed the challenges of learning to code and the ways in which these
 challenges can feel intimidating, scary, and dangerous. She made several great
 analogies to rock climbing (if you climb, you expect falls; if you code, expect
@@ -36,7 +36,7 @@ in terms of what I see in my students. There are many examples of students
 defeating themselves before they ever really get going due to the fear of
 failure, feelings of inadequacy, and generally discouraging experiences of
 frustration and exasperation.&lt;/p&gt;
-&lt;h2&gt;Jessica Ingrassellino: Teaching a Diverse Population&lt;/h2&gt;
+&lt;h2&gt;Jessica Ingrassellino&amp;mdash;Teaching a Diverse Population&lt;/h2&gt;
 &lt;p&gt;Ingrassellino provided an impromptu talk filling in for a speaker whose Visa was
 denied and, therefore, was prevented from attending the conference.&lt;/p&gt;
 &lt;p&gt;Ingrassellino provided a helpful talk discussing ways in which she accommodates
@@ -61,7 +61,7 @@ quickly!), but here are some takeaways:&lt;/p&gt;
 &lt;li&gt;Programming is a way of thinking. (Read more about it here.)[https://blogs.scientificamerican.com/guest-blog/programming-as-a-way-of-thinking/]&lt;/li&gt;
 &lt;li&gt;Visual Bash.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Andrew M. Dawes: Teaching Quantum Mechanics with Python&lt;/h2&gt;
+&lt;h2&gt;Andrew M. Dawes&amp;mdash;Teaching Quantum Mechanics with Python&lt;/h2&gt;
 &lt;p&gt;(Dawes)[http://amcdawes.com] discussed using (Jupyter)[http://jupyter.org/] and
 (QuTip)[http://qutip.org/] to teach Quantum Mechanics to undergrads. Robust tools
 allow students to work through material in an interactive way, and give the
@@ -86,7 +86,7 @@ understanding.&lt;/p&gt;
 &lt;/em&gt; Re-create examples so they can reinforce what they read in their books
 &lt;em&gt; Don't be afraid to give out fully-worked examples
 &lt;/em&gt; Encourage tinkering&lt;/p&gt;
-&lt;h2&gt;Carol Willing: JupyterHub: Interactive Learning and Classrooms at Scale&lt;/h2&gt;
+&lt;h2&gt;Carol Willing&amp;mdash;JupyterHub: Interactive Learning and Classrooms at Scale&lt;/h2&gt;
 &lt;p&gt;What is learning? "Learning results from what the student does and thinks, and
 only from what the student does and thinks" (Herbert Simon). Willing points out
 many ways in which Jupyter Notebooks inspire people to "play" with them: change
@@ -139,4 +139,22 @@ campus-wide that teaches data science with Notebooks and includes instruction
 for deploying (Jupyter Hub with Kubernetes)[http://zero-to-jupyterhub.readthedocs.io/].&lt;/p&gt;
 &lt;p&gt;Jupyter Labs is a new product coming that will allow more complex Notebook
 creation including more media. Keep an eye out for this to launch and bring new
-features.&lt;/p&gt;</content><category term="Python"></category><category term="conference"></category><category term="education"></category></entry></feed>
+features.&lt;/p&gt;
+&lt;h2&gt;Al Sweigart&amp;mdash;Tortuga.py: Expanding Turtle.py Beyond English&lt;/h2&gt;
+&lt;p&gt;Sweigart points out that Python has some great features for teaching new coders
+using the classic Turtle programming module &lt;code&gt;turtle.py&lt;/code&gt;. Considering teaching
+students whose native language is not English, Sweigart came to feel that the
+use of English words to program the Turtle ("up", "down", "left", "right", etc.)
+add to the difficulty of learning to program. Although key words ("for", "in", etc.)
+cannot be translated into other languages, the rest of the &lt;code&gt;turtle.py&lt;/code&gt; module has
+been translated into Spanish and is available as Tortuga (&lt;code&gt;pip install tortuga&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;This definitely makes the code for Turtle scripts more accessible to coders in
+foreign languages. Sweigart has outlined a technical plan for improving the
+&lt;code&gt;turtle.py&lt;/code&gt; component in the standard Python library in order to make this change
+fully accessible to people wanting to teach code in a foreign language. Each
+added language only adds about 4k of code to the package, which should allow for
+many other languages to be supported.&lt;/p&gt;
+&lt;p&gt;Sweigart hopes to encourage people to work with him to complete the project and
+eventually get the translations added to the standard library. He welcomes
+anyone to come work on the &lt;code&gt;Tortuga.py&lt;/code&gt; project with him. (Check out his
+presentation here)[http://bit.ly/tortugapy].&lt;/p&gt;</content><category term="Python"></category><category term="conference"></category><category term="education"></category></entry></feed>
