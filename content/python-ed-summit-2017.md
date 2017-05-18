@@ -113,6 +113,73 @@ Key takeaways (summarized by Dawes in his slides):
 
 ## Carol Willing: JupyterHub: Interactive Learning and Classrooms at Scale
 
+What is learning? "Learning results from what the student does and thinks, and
+only from what the student does and thinks" (Herbert Simon). Willing points out
+many ways in which Jupyter Notebooks inspire people to "play" with them: change
+elements, experiment to get different results, and do lots of different things
+with very few lines of code.
+
+Jupyter has diversified since the iPython Notebook days. The iPython core team
+develops the Python core of Jupyter, and then other community developers
+contribute modules to run over 70 other languages. This has allowed the concept
+of the Notebook to move beyond the boundaries of any one language.
+
+Jupyter Hub allows for web-based Notebooks, sharing, and collaboration without
+requiring local installs of the software. Goal is to remove the hurdles for
+getting started with Notebooks.
+
+After discussion of the value of Notebooks for providing valuable features and
+experiences, Willing discussed some additional pedagogical concepts. Discussing
+how the learning process works, Willing listed three major steps:
+
+* Motivate - Teachers must inspire students to learn.
+* Develop Mastery - Students must actually build skills and understanding
+* Apply Knowledge - Students can use their skills and understanding to solve
+real problems in real situations.
+
+Willing describes how Jupyter Notebooks help accomplish these goals. Notebooks
+can help motivate, help develop mastery, and then can actually be a tool used
+by students to apply their knowledge. Willing also goes through several examples
+of how Jupyter Notebooks and Jupyter Hub have been used in real courses.
+
+**Motivation**
+
+The (nbviewer)[https://nbviewer.jupyter.org] is an example of something that
+can motivate students by showing them cool things that people have done and
+enticing them to jump in and start experimenting with an existing Notebook.
+
+Willing worked with Jessica Keller's _Intro to Python_ workshop to translate the
+workshop information and goals into Notebooks that students could work through
+and then take home and continue experimenting and learning (or refer back to).
+The Notebooks reduced the stress level of students during the workshop.
+
+Willing describes a course taught by Demba Ba at Harvard to teach singal processing
+using wearables and Jupyter Notebooks. (See SciPy 2016 talk for more details.)
+
+**Develop Mastery**
+
+Kristen Thyng teaches Python for Geosciences and uses the nbgrader tool to handle
+grading. Her course also begins with simple information and then seamlessly allows
+students to increase the complexity of what they are doing.
+
+Tanya Schlusser teaches R with Jupyter Notebooks. She uses a flipped classroom
+approach to allow students to engage with materials at home, and in class they
+focus on working in Notebooks on code, examples, problems, etc. Class sessions
+are designed around short, practical challenges.
+
+Brian Granger teaches Data Science at Cal Poly SLO that includes Jupyter
+Notebooks, Ansible, etc. Notebooks allow students to get much further than would
+otherwise be possible.
+
+**Apply Knowledge**
+
+UC Berkeley Data Science course (Data 8) is a cross-disciplinary course offered
+campus-wide that teaches data science with Notebooks and includes instruction
+for deploying (Jupyter Hub with Kubernetes)[http://zero-to-jupyterhub.readthedocs.io/].
+
+Jupyter Labs is a new product coming that will allow more complex Notebook
+creation including more media. Keep an eye out for this to launch and bring new
+features.
 
 
 
