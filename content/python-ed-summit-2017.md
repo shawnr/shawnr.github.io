@@ -77,13 +77,13 @@ quickly!), but here are some takeaways:
 * Show students what failure looks like.
 * Adafruit is a cool company that makes systems on which you can write Python.
 * Adafruit has new, tiny, cheap chips that you can use to build cool things.
-* Programming is a way of thinking. (Read more about it here.)[https://blogs.scientificamerican.com/guest-blog/programming-as-a-way-of-thinking/]
+* Programming is a way of thinking. [Read more about it here.](https://blogs.scientificamerican.com/guest-blog/programming-as-a-way-of-thinking/)
 * Visual Bash.
 
 ## Andrew M. Dawes&mdash;Teaching Quantum Mechanics with Python
 
-(Dawes)[http://amcdawes.com] discussed using (Jupyter)[http://jupyter.org/] and
-(QuTip)[http://qutip.org/] to teach Quantum Mechanics to undergrads. Robust tools
+[Dawes](http://amcdawes.com) discussed using [Jupyter](http://jupyter.org/) and
+[QuTip](http://qutip.org/) to teach Quantum Mechanics to undergrads. Robust tools
 allow students to work through material in an interactive way, and give the
 students ways to do _real_ quantum mechanics work using the same tools used by
 professional researchers.
@@ -144,7 +144,7 @@ of how Jupyter Notebooks and Jupyter Hub have been used in real courses.
 
 **Motivation**
 
-The (nbviewer)[https://nbviewer.jupyter.org] is an example of something that
+The [nbviewer](https://nbviewer.jupyter.org) is an example of something that
 can motivate students by showing them cool things that people have done and
 enticing them to jump in and start experimenting with an existing Notebook.
 
@@ -175,7 +175,7 @@ otherwise be possible.
 
 UC Berkeley Data Science course (Data 8) is a cross-disciplinary course offered
 campus-wide that teaches data science with Notebooks and includes instruction
-for deploying (Jupyter Hub with Kubernetes)[http://zero-to-jupyterhub.readthedocs.io/].
+for deploying [Jupyter Hub with Kubernetes](http://zero-to-jupyterhub.readthedocs.io/).
 
 Jupyter Labs is a new product coming that will allow more complex Notebook
 creation including more media. Keep an eye out for this to launch and bring new
@@ -200,8 +200,8 @@ many other languages to be supported.
 
 Sweigart hopes to encourage people to work with him to complete the project and
 eventually get the translations added to the standard library. He welcomes
-anyone to come work on the `Tortuga.py` project with him. (Check out his
-presentation here)[http://bit.ly/tortugapy].
+anyone to come work on the `Tortuga.py` project with him. [Check out his
+presentation here](http://bit.ly/tortugapy).
 
 ## Dan Pozmanter&mdash;Teaching Practical Python
 
@@ -264,7 +264,7 @@ something that would help advanced students, and we should consider these approa
 for our advanced groupwork or capstones.
 
 We attempt a form of this team-based education in the
-(Professional Practice)[http://webdev.seattleu.edu/courses.html] course we run as part of
+[Professional Practice](http://webdev.seattleu.edu/courses.html) course we run as part of
 the Web Dev Certificate at Seattle University. The course runs as, essentially,
 a big role-playing game for the first seven weeks, allowing students to inhabit
 the roles of a full dev team and work together.

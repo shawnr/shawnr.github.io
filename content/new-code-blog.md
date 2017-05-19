@@ -8,7 +8,7 @@ Summary: I started a new code blog. Why? Because I've been meaning to do it for 
 Welcome to shawnr.com. This is a code blog. I've been meaning to begin a blog
 like this for awhile now. This week I'm at PyCon 2017, and, as so often happens
 when I attend big, inspiring conference, I felt compelled to take notes. Of
-course, I want to share these notes with (my students)[http://webdev.seattleu.edu]
+course, I want to share these notes with [my students](http://webdev.seattleu.edu)
 and colleagues and everyone else.
 
 So here we are. During the welcome session this morning I tossed together this
