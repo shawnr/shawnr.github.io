@@ -58,12 +58,12 @@ quickly!), but here are some takeaways:&lt;/p&gt;
 &lt;li&gt;Show students what failure looks like.&lt;/li&gt;
 &lt;li&gt;Adafruit is a cool company that makes systems on which you can write Python.&lt;/li&gt;
 &lt;li&gt;Adafruit has new, tiny, cheap chips that you can use to build cool things.&lt;/li&gt;
-&lt;li&gt;Programming is a way of thinking. (Read more about it here.)[https://blogs.scientificamerican.com/guest-blog/programming-as-a-way-of-thinking/]&lt;/li&gt;
+&lt;li&gt;Programming is a way of thinking. &lt;a href="https://blogs.scientificamerican.com/guest-blog/programming-as-a-way-of-thinking/"&gt;Read more about it here.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Visual Bash.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Andrew M. Dawes&amp;mdash;Teaching Quantum Mechanics with Python&lt;/h2&gt;
-&lt;p&gt;(Dawes)[http://amcdawes.com] discussed using (Jupyter)[http://jupyter.org/] and
-(QuTip)[http://qutip.org/] to teach Quantum Mechanics to undergrads. Robust tools
+&lt;p&gt;&lt;a href="http://amcdawes.com"&gt;Dawes&lt;/a&gt; discussed using &lt;a href="http://jupyter.org/"&gt;Jupyter&lt;/a&gt; and
+&lt;a href="http://qutip.org/"&gt;QuTip&lt;/a&gt; to teach Quantum Mechanics to undergrads. Robust tools
 allow students to work through material in an interactive way, and give the
 students ways to do &lt;em&gt;real&lt;/em&gt; quantum mechanics work using the same tools used by
 professional researchers.&lt;/p&gt;
@@ -113,7 +113,7 @@ can help motivate, help develop mastery, and then can actually be a tool used
 by students to apply their knowledge. Willing also goes through several examples
 of how Jupyter Notebooks and Jupyter Hub have been used in real courses.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Motivation&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The (nbviewer)[https://nbviewer.jupyter.org] is an example of something that
+&lt;p&gt;The &lt;a href="https://nbviewer.jupyter.org"&gt;nbviewer&lt;/a&gt; is an example of something that
 can motivate students by showing them cool things that people have done and
 enticing them to jump in and start experimenting with an existing Notebook.&lt;/p&gt;
 &lt;p&gt;Willing worked with Jessica Keller's &lt;em&gt;Intro to Python&lt;/em&gt; workshop to translate the
@@ -136,7 +136,7 @@ otherwise be possible.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Apply Knowledge&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UC Berkeley Data Science course (Data 8) is a cross-disciplinary course offered
 campus-wide that teaches data science with Notebooks and includes instruction
-for deploying (Jupyter Hub with Kubernetes)[http://zero-to-jupyterhub.readthedocs.io/].&lt;/p&gt;
+for deploying &lt;a href="http://zero-to-jupyterhub.readthedocs.io/"&gt;Jupyter Hub with Kubernetes&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Jupyter Labs is a new product coming that will allow more complex Notebook
 creation including more media. Keep an eye out for this to launch and bring new
 features.&lt;/p&gt;
@@ -156,8 +156,8 @@ added language only adds about 4k of code to the package, which should allow for
 many other languages to be supported.&lt;/p&gt;
 &lt;p&gt;Sweigart hopes to encourage people to work with him to complete the project and
 eventually get the translations added to the standard library. He welcomes
-anyone to come work on the &lt;code&gt;Tortuga.py&lt;/code&gt; project with him. (Check out his
-presentation here)[http://bit.ly/tortugapy].&lt;/p&gt;
+anyone to come work on the &lt;code&gt;Tortuga.py&lt;/code&gt; project with him. &lt;a href="http://bit.ly/tortugapy"&gt;Check out his
+presentation here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Dan Pozmanter&amp;mdash;Teaching Practical Python&lt;/h2&gt;
 &lt;p&gt;Pozmanter wants to ease the frustration and anxiety students feel when they get
 out of school and into real-world projects. He discusses the need to create
@@ -214,7 +214,7 @@ It's tough to imagine how to do this in lower level courses, but this is certain
 something that would help advanced students, and we should consider these approaches
 for our advanced groupwork or capstones.&lt;/p&gt;
 &lt;p&gt;We attempt a form of this team-based education in the
-(Professional Practice)[http://webdev.seattleu.edu/courses.html] course we run as part of
+&lt;a href="http://webdev.seattleu.edu/courses.html"&gt;Professional Practice&lt;/a&gt; course we run as part of
 the Web Dev Certificate at Seattle University. The course runs as, essentially,
 a big role-playing game for the first seven weeks, allowing students to inhabit
 the roles of a full dev team and work together.&lt;/p&gt;
